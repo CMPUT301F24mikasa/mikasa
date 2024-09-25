@@ -1,5 +1,5 @@
-public class Circle extends Shape {
-		private string shape_name = "circle";
+public class Rectangle extends Shape {
+		private string shape_name = "rectangle";
 
 		public string get_name(){
 			return shape_name;
